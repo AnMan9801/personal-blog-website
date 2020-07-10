@@ -11,6 +11,11 @@ body {
     line-height: 1.5rem;
 }
 
+a{
+    text-decoration: none;
+    color: #000;
+}
+
 .container {
     width: 100%;
     background-color: white;
@@ -105,11 +110,12 @@ header {
     justify-content: center;
 }
 
-.post-snippet-text{
+.post-snippet-text {
     padding: 5%;
     max-height: 45vmin;
-    
+
 }
+
 .post-snippet-image {
     background-image: url("../images/post1.jpg");
     background-size: cover;
@@ -124,14 +130,14 @@ header {
     color: rgba(0, 0, 0, 0.5);
 }
 
-.post-snippet-title{
+.post-snippet-title {
     font-size: 1.5rem;
     font-weight: 700;
 
     padding-top: 5%;
 }
 
-.post-snippet-content{
+.post-snippet-content {
     width: 100%;
     max-height: 29vmin;
     padding: 3% 0%;
