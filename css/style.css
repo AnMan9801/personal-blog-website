@@ -102,6 +102,7 @@ header {
     border-color: #000;
     border-style: solid;
     border-width: 1px;
+    margin-bottom: 10%;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
