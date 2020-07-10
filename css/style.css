@@ -81,8 +81,7 @@ header {
 .hr {
     width: 0px;
     height: 100%;
-    border: #000 1px;
-    border-style: solid;
+    border-left: #000 solid 3px;
 }
 
 .blog-list {
